@@ -13,8 +13,9 @@
       "revocationReason": "Issued in error."
     },
 	{
-      "id": "urn:uuid:25c42792-bf3c-40ff-9a8a-c10149200460",
-      "revocationReason": "Problema con el usuario."
-    }
+	  "id": "urn:uuid:25c42792-bf3c-40ff-9a8a-c10149200460",
+      "revocationReason": "Issued in error."
+	
+	}
   ]
 }
