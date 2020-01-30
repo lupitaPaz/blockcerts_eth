@@ -12,5 +12,10 @@
       "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
       "revocationReason": "Issued in error."
     }
+	
+	{
+      "id": "urn:uuid:25c42792-bf3c-40ff-9a8a-c10149200460",
+      "revocationReason": "Problema con el usuario."
+    }
   ]
 }
